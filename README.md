@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdelrhman Reda and I'm a Frontend developer, from Egypt</p>
+<p align="left">My name is Abdelrhman Reda and I'm a Frontend developer  </p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 **I'm currently learning:** React, Next.js, Tailwind, and Network Security  <br>💻 **Currently working on:** Projects using Vanilla JavaScript  <br>🎓 **Education:** Final year, CSE Department, Faculty of Engineering, Zagazig University  <br>🎯 **Goals:** Build innovative web applications and master front-end development  <br>🎲 **Fun fact:** I often find the solution to a bug right after explaining it to someone!</p>
+<p align="left">📚 **I'm currently learning:** React, Next.js, Tailwind  <br>💻 **Currently working on:** Projects using Vanilla JavaScript  <br>🎓 **Education:** Fresh Graduated, CSE Department, Faculty of Engineering, Zagazig University  <br>🎯 **Goals:** Build innovative web applications and master front-end development  <br>🎲 **Fun fact:** I often find the solution to a bug right after explaining it to someone!</p>
 
 ###
 
